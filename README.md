@@ -1,1 +1,1 @@
-[# se-al_stellar](https://github.com/gabyav912/se-al_stellar)
+[# signal_stellar](https://github.com/gabyav912/signal_stellar)
